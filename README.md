@@ -11,13 +11,13 @@
 </div
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marlla-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marlla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marlla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div
     
     
-    <div style="display: inline_block"><br>
-  <img align="right" alt="Marlla-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/93985773/156811031-87731969-091e-4f6d-a7a0-03c6385b4ebe.pngwidth=676&height=676">
+    <div align ="right"><br>
+  <img align="right" alt="Marlla-pic" height="150" style="border-radius:50px;" src="![avatar_1646414256735](https://user-images.githubusercontent.com/93985773/156815366-8db20213-a995-4034-9cb7-94a850505819.png)">
 </div>
     
