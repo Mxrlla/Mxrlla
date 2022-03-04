@@ -15,7 +15,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div
-<div align="right">
-    <img height="180em"
     
-    </div
+    
+<div align="right">
+    
+    <img height="180em"![avatar_1646414256735](https://user-images.githubusercontent.com/93985773/156811031-87731969-091e-4f6d-a7a0-03c6385b4ebe.png)/>
+    
+</div
