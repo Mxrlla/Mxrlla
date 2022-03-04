@@ -19,6 +19,6 @@
     
 <div align="right">
     
-    <img height="180em"![avatar_1646414256735](https://user-images.githubusercontent.com/93985773/156811031-87731969-091e-4f6d-a7a0-03c6385b4ebe.png)/>
+  ![avatar_1646414256735](https://user-images.githubusercontent.com/93985773/156811031-87731969-091e-4f6d-a7a0-03c6385b4ebe.png)
     
 </div
