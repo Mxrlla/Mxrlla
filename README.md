@@ -1,7 +1,7 @@
 ### Oii, eu sou Marlla Rolemberg 
 
-- 🌱 Estudando HTML/JAVA/ CSS
-- 📫 Contate- me no email: marllasousar@gmail.com
+- 🌱 Estudando HTML/JAVA/CSS/PHP/MySQL
+- 📫 Contate-me no email: marllasousar@gmail.com
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
