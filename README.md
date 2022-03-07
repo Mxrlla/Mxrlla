@@ -17,7 +17,5 @@
   </div
     
     
-    <div align ="right"><br>
-  <img align="right" alt="Marlla-pic" height="150" style="border-radius:50px;" src="![avatar_1646414256735](https://user-images.githubusercontent.com/93985773/156815366-8db20213-a995-4034-9cb7-94a850505819.png)">
-</div>
+  
     
