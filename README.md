@@ -10,14 +10,14 @@
   <img height="130em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxrlla&layout=compact&langs_count=7&theme=dracula"/>
 </div
 
-<div style="display: iniline-block"><br>
-  <img align="center" alt="Marlla-Js" height="20" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marlla-HTML" height="20" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marlla-CSS" height="20" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <a href="https://www.linkedin.com/in/marlla-rolemberg/" target="_blank"> <img align="center" alt="Marlla-link" height="30" width="50" scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
+<div align="center"><br>
+  <img align="center" alt="Marlla-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marlla-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marlla-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://www.linkedin.com/in/marlla-rolemberg/" target="_blank"> <img align="center" alt="Marlla-link" height="50" width="50" scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
    </div>
-     <div>
-       <img url>
+     <div align="right">
+        <img align="right" alt="Marlla-avatar" height="170" width="170" src="https://user-images.githubusercontent.com/93985773/181247444-453fea84-1941-440d-8d9d-6c707e6eb6ac.PNG">
   </div>
     
   
