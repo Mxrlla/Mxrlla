@@ -1,7 +1,7 @@
 ## Mxrlla's github
 
 - 🌱 Estudando HTML/JAVA/CSS/PHP/MySQL
-- 📫 Contate-me no email: https://beacons.ai/marllasousa
+- 📫 Contate-me: https://beacons.ai/marllasousa
 - 😄 Pronomes: Ela/Dela
 
 <br>
