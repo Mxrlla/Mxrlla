@@ -1,7 +1,7 @@
 # Mxrlla's github
 
 
-📫 Contate-me: https://beacons.ai/marllasousa<br> 💫 Pronomes: Ela/Dela
+📫 Contate-me: https://beacons.ai/marllasousa
 
 
 
